@@ -35,7 +35,7 @@ function Home() {
         },
         {
             "id": 5,
-            "title": "Coca-Cola",
+            "title": "Coca-Cola Zero",
             "price": 5.99,
             "imageUrl": "https://madeleinebakery.com.br/wp-content/uploads/2020/01/coca-zero.jpg",
             "comments": "350ml",
