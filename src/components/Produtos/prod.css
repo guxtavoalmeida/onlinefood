@@ -1,0 +1,47 @@
+.produto {
+    border-radius: 35px;
+    border: 1px #c3c3c3;
+    box-shadow: 0 2px 7px 0 rgba(122, 82, 82, 0.15);
+    display: flex;
+    padding: 15px;
+    align-items: flex-start;
+}
+
+.produto__image {
+    max-width: 150px;
+    margin-right: 15px;
+}
+
+.produto__title {
+    font-size: 17px;
+    color: salmon;
+}
+
+.produto__price {
+    font-size: 15px;
+    font-weight: 630;
+    color: black;
+}
+
+.produto__footer {
+    display: flex;
+    align-items: center;
+}
+
+.produto__comment {
+    color: #95a5a6;
+    font-weight: 400;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.produto__link {
+    border: 1px solid black;
+    font-weight: 700;
+    border-radius: 7px;
+    color: black;
+    text-decoration: none;
+    padding: 5px 5px;
+    margin-left: 500px;
+    position:absolute;
+}
